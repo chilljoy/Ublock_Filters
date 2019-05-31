@@ -3,3 +3,4 @@ hcm.paycor.com##.rc-collapse-content-active.rc-collapse-content
 secure.paycor.com##.right-counter.col-sm-6
 secure.paycor.com##.balance-summary-counters.row > section.col-sm-6:nth-of-type(1)
 secure.paycor.com##.summary-dark.summary.row-fluid
+www.mxpx.com
